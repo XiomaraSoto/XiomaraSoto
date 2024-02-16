@@ -15,8 +15,6 @@
 - 🎯Quiero empezar a crear contenido donde comparta mi camino profesional y cómo uso mis habilidades para impactar positivamente a grupos interdisciplinarios
 </p>
 
-
-<h3 align="center">¿✨Nos seguimos✨?</h3>
 <p align="center">
 <a href="https://linkedin.com/in/xiomara-soto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xiomara-soto" height="30" width="40" /></a>
 <a href="https://instagram.com/xioma.soto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xioma.soto" height="30" width="40" /></a>
