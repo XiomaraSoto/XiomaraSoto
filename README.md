@@ -1,7 +1,7 @@
-![Portada Github](img/Bannervideo.mp4)
+
 <h1 align="center">Dime Xio 👩‍💻✨</h1>
 <h3 align="center">Soy una Project Manager que sueña con transformar el mundo👩‍🚀🌎!</h3>
-<p aling="center"> Soy una mente inquieta en el mundo de la tecnología. Me apasionan las ideas disruptivas, conectar con la gente y liderar equipos diversos. Aspiro a ser Project Manager en Google o la NASA, y usar la tecnología para cambiar el mundo. En mi tiempo libre, exploro, aprendo y comparto. Soy extrovertida, amo colaborar y crear conexiones. Si buscas ideas frescas, liderazgo inspirador y pasión por la tecnología, ¡hablemos!
+<p aling="center"> Soy una mente inquieta en el mundo de la tecnología. Me apasionan las ideas disruptivas, conectar con la gente y liderar equipos diversos. Aspiro a ser Project Manager en grandes empresas de tecnologia y por que no en la NASA, y usar la tecnología para cambiar el mundo. En mi tiempo libre, exploro, aprendo y comparto. Soy extrovertida, amo colaborar y crear conexiones. Si buscas ideas frescas, liderazgo inspirador y pasión por la tecnología, ¡hablemos!
 </p>
 <h3 aling="left"> ¿✨Les cuento un poco sobre mis proyectos✨?</h3>
 <p aling="left">
