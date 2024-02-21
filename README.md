@@ -1,7 +1,7 @@
 
 <h1 align="center">Dime Xio 👩‍💻✨</h1>
 <h3 align="center">Soy una Project Manager que sueña con transformar el mundo👩‍🚀🌎!</h3>
-<p aling="center"> Soy una mente inquieta en el mundo de la tecnología. Me apasionan las ideas disruptivas, conectar con la gente y liderar equipos diversos. Aspiro a ser Project Manager en grandes empresas de tecnología y por que no en la NASA, y usar la tecnología para cambiar el mundo. En mi tiempo libre, exploro, aprendo y comparto. Soy extrovertida, amo colaborar y crear conexiones. Si buscas ideas frescas, liderazgo inspirador y pasión por la tecnología, ¡hablemos!
+<p aling="center"> Soy una mente inquieta en el mundo de la tecnología. Me apasionan las ideas disruptivas, conectar con la gente y liderar equipos diversos. Aspiro a ser Project Manager en grandes empresas de tecnología, y usar la tecnología para cambiar el mundo. En mi tiempo libre, exploro, aprendo y comparto. Soy extrovertida, amo colaborar y crear conexiones. Si buscas ideas frescas, liderazgo inspirador y pasión por la tecnología, ¡hablemos!
 </p>
 <h3 aling="left"> ¿✨Les cuento un poco sobre mis proyectos✨?</h3>
 <p aling="left">
@@ -10,7 +10,7 @@
   
 - ⭐ Hago parte del grupo lider de Notion Colombia, donde lideramos las inciativas de la comunidad en la ciudad de Medellín.
   
-- 👩‍💻Estoy preparandome como project manager para destacar en el mundo profesional. Actualmente estudio en la [Universidad Pontificia Bolivariana] y en linea con el [Project Management Institute] y en [Platzi].
+- 👩‍💻Estoy preparandome como project manager para destacar en el mundo profesional. Actualmente estudio en la [Universidad Pontificia Bolivariana] y en linea con el [Project Management Institute].
 
 - 🎯Quiero empezar a crear contenido donde comparta mi camino profesional y cómo uso mis habilidades para impactar positivamente a grupos interdisciplinarios
 </p>
